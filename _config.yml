@@ -1,0 +1,28 @@
+name: Blue Beard Business Blog
+favicon: null
+layout_spectrum: 0.3943074867129326
+typography_spectrum: 0.4782217734027654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.24288065498694777
+  lightness: 0.1524137449450791
+  saturation: 0.9250949167180806
+  rhythmicContrast: 0.49764697649516165
+purpose: []
