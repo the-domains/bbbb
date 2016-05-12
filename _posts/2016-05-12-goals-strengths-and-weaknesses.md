@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Jellybean Games has a mission statement: to make kid-friendly games that grown-ups will love.'
-datePublished: '2016-05-12T17:39:35.208Z'
-dateModified: '2016-05-12T17:38:13.082Z'
+datePublished: '2016-05-12T17:54:32.940Z'
+dateModified: '2016-05-12T17:45:20.093Z'
 title: 'Goals, Strengths and Weaknesses'
 author: []
+sourcePath: _posts/2016-05-12-goals-strengths-and-weaknesses.md
 authors: []
 publisher:
   name: null
@@ -16,14 +17,14 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-goals-strengths-and-weaknesses.md
 url: goals-strengths-and-weaknesses/index.html
 _type: Article
 
 ---
 ## Goals, Strengths and Weaknesses
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba7d957-8a8b-4458-aceb-77a27fd3e2eb.jpg)
 
-### Goals  
+### Goals
 
 [Jellybean Games][0] has a mission statement: to make kid-friendly games that grown-ups will love.
 
@@ -82,6 +83,7 @@ More seriously though:
 To my mind, those strengths greatly outweigh the weaknesses. Add to that the pattern in my life of things going my way (you can call it luck, hard work, or just being a straight white male) and, all things considered, I think Jellybean Games has a pretty great chance of success. (And if it doesn't manage to achieve its goals, I'll learn a bunch for the next project!)
 
 \*Up next:[Part 4 -\***_Goals, Strengths and Weaknesses_**][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e444a27-505c-4104-90ee-10157364cc95.jpg)
 
 [0]: http://www.jellybean-games.com/
 [1]: http://www.greaterthangames.com/
